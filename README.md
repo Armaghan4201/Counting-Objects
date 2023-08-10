@@ -1,2 +1,2 @@
 # Counting-Objects
-Counting Crows, Eggs and Bottles using image segmentation techniques.
+Counting Crows, Eggs and Bottles using Image Segmentation Techniques.
